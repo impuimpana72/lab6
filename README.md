@@ -1,2 +1,2 @@
 # lab6
-hello goodmorning
+hello good morning
